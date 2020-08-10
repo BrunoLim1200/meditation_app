@@ -1,5 +1,5 @@
 
-# Weather App
+# Meditation App
 Projeto prático de estudo utilizando HTML5, CSS3 e Javascript.
 
 Um simples web app de meditação.
